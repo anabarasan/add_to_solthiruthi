@@ -1,0 +1,10 @@
+{
+  "name": "சொல்திருத்தி",
+  "description": "",
+  "version": "0.1",
+  "permissions": ["tabs", "contextMenus", "<all_urls>"],
+  "background": {
+    "scripts": ["selection.js"]
+  },
+  "manifest_version": 2
+}
