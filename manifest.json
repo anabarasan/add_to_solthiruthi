@@ -1,6 +1,6 @@
-{
-  "name": "சொல்திருத்தி",
-  "description": "",
+﻿{
+  "name": "add to சொல்திருத்தி",
+  "description": "CrowdSource Root Words for the Tamil Spell Checker சொல்திருத்தி",
   "version": "0.1",
   "permissions": ["tabs", "contextMenus", "<all_urls>"],
   "background": {
